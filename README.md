@@ -1,10 +1,10 @@
----
+
 
 ## LinkageShield
 
 `LinkageShield` implements a **subgraph-trigger-based** backdoor attack for cross-network entity/vertex alignment. It is designed to generate and inject subgraph triggers, and then cooperate with multiple target models in `target-model` for subsequent **attack** and **defense** training experiments.
 
----
+
 
 ### Main Files
 
@@ -82,7 +82,6 @@ These scripts typically:
 - Evaluate the model under trigger-based attack settings  
 - (Optionally) introduce defense mechanisms and compare against baselines without attack / without defense
 
----
 
 In summary, the overall pipeline is:
 

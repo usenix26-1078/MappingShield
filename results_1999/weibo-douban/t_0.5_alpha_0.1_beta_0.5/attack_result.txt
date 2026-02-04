@@ -1,0 +1,4 @@
+Clean Accuracy on testing data: 0.8490, AUC-ROC: 0.9079
+正样本攻击成功率（ASR）: 1.0000 
+正样本攻击成功率（ASR）: 0.1420 
+正样本攻击成功率（ASR）: 0.1620 
